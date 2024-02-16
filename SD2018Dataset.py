@@ -1,9 +1,9 @@
-# Description : Load Respiratory Dataset
+# Description : Load SDNet2018 Dataset
 # Date : 11/14/2023 (14)
 # Author : Dude
 # URLs :
-# A dataset of lung sounds recorded from the chest wall using an electronic stethoscope - Mendeley Data
-#  https://data.mendeley.com/datasets/jwyy9np4gv/3
+# SDNET2018: An annotated image dataset for non-contact concrete crack detection using deep convolutional neural networks
+#  https://www.kaggle.com/datasets/harishmulchandani2/sdnet2018?resource=download
 # Problems / Solutions :
 #
 # Revisions :
